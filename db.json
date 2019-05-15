@@ -1,13 +1,16 @@
 {
-    "metadata":
+    "test1":
     {
-          "status": "OK",
-          "token": "BRAK"
-    },
-    "data":
-    {
-          "id": "544",
-          "task": "5324",
-          "command": "lamacz6.sh document.pdf"
+        "metadata":
+        {
+              "status": "OK",
+              "token": "BRAK"
+        },
+        "data":
+        {
+              "id": "544",
+              "task": "5324",
+              "command": "lamacz6.sh document.pdf"
+        }
     }
 } 
