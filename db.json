@@ -1,11 +1,12 @@
 {
-  "posts": [
+    "metadata":
     {
-      "id": 1,
-      "title": "hello"
+          "status": "OK"
+    },
+    "data":
+    {
+          "id": "544",
+          "task": "5324",
+          "command": "lamacz6.sh document.pdf"
     }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
-}
+} 
